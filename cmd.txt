@@ -1,0 +1,31 @@
+youtube[yt search_string]
+say[say string]
+privatemessage[pm user message]
+announce[announce room message]
+profilepic[pp username]
+takeacc[takeacc name]
+checkaccount[ca username]
+translate[trans from to text]
+profcode[profilecode username]
+joinroom[join roomname]
+midgetbot[stalk query]
+searchanime[sanime animename]
+leaveroom[leave roomname]
+getimage[geti imagequery]{Uses Bing Image}
+finduser[find username]{searches user in the listed rooms}
+pingall[pingall]
+lovemeter[lm user1 user2]
+zodiaccompatibility[zc zodiac1 zodiac2]
+roominfo[roominfo roomname]
+allusers[luser]
+profile[profile username]
+search[search query]{uses bing search}
+pokemon{pokeball[pb username], removepokemon[rp username], checkpokemon[cpoke or cpoke username]}
+roomuserscreenshot[russ roomname/username]
+lurkonroom[lurk roomtolurkon roomwhereyouare]
+rolldice[dice value]
+binggifimages[bgif searchstring + gif]
+slap[slap username reason]
+getimage[gi searchstring]{Uses bign search}
+ghostbin[ghost msgtext]
+opensite [open websitename searchquery]

@@ -1,4 +1,9 @@
 # Chatango-Chatbot
 A Python Chatbot (name lovebotty) for the website www.chatango.com.
-<img src="http://i.imgur.com/nbAj9hZ.gif" width=500 height=300>
-<img src="https://i.imgflip.com/1pwej7.gif" title="made at imgflip.com"/>
+<img src="http://i.imgur.com/NHdn7nu.png" width=500 height=400>
+<img src="http://i.imgur.com/lzI0oe4.png" width=500 height=400>
+<img src="http://i.imgur.com/9tx3pta.png" width=500 height=400>
+<img src="http://i.imgur.com/fN4UDtz.png" width=500 height=400>
+<img src="http://i.imgur.com/MOCcs0f.png" width=500 height=400>
+<img src="http://i.imgur.com/F1LamaP.png" width=500 height=400>
+<img src="http://i.imgur.com/ZdMmAMY.png" width=500 height=400>

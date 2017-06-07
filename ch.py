@@ -1,12 +1,3 @@
-# Ch.py
-# Original by: Lumirayz
-# Fixes by: Cheese
-# Date: 05/05/2017
-
-# Changes to the original:
-# Fixed crashing when private messaged.
-# Fixed crashing when a user is on the banlist twice then unbanned.
-# Made it look neater.
 
 ###########
 # Imports #

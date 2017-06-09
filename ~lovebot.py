@@ -1781,13 +1781,13 @@ class lovebot(ch.RoomManager, ch.Room):
       #print(str(e))
       
 rooms = ["prettylitty", "mabottesting","madebugroom"]
-username = "lovebotty"
+username = "accusername"
 selecteduser = ["stupidaf","mouns12","devin997", "devinozaki"]
-accs = ['devinozaki', 'devin997','bungyoi','ec5tacy','mih4el','v1brat0r69','lovebotty','r1kam1ka']
-adminuser = ["devinozaki","devin997","orangue","bungyoi","v1brat0r69","mouns12"]
+accs = ['devinozaki', 'devin997','bungyoi','ec5tacy','mih4el','lovebotty','r1kam1ka']
+adminuser = ["devinozaki","devin997","orangue","bungyoi","mouns12"]
 cmds = []
 temprooms = []
-password = "dev18997"
+password = "password"
 #try:
 lovebot.easy_start(rooms, username, password)
 #except Exception as e:
